@@ -1,0 +1,4 @@
+method,pwca,exact_acc,cer
+zero_shot,0.0599,0.0000,0.9748
+few_shot,0.7257,0.5782,0.2775
+lora,0.7769,0.5347,0.1813
